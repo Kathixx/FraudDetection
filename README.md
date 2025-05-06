@@ -3,9 +3,9 @@
 The idea and data of this project comes from ZINDI:
 [Fraud Detection in Electricity and Gas Consumption Challenge](https://zindi.africa/competitions/fraud-detection-in-electricity-and-gas-consumption-challenge/data)
 
-Collaborators: @MaJo632, @BasaJess and @Kathixx
+Collaborators: [@MaJo632](https://github.com/MaJo632), [@BasaJess](https://github.com/BasaJess) and [@Kathixx](https://github.com/Kathixx)
 
-The short-term (4 days) project was part of the Datascience & AI Bootcamp from @neuefische.
+The short-term (4 days) project was part of the Datascience & AI Bootcamp from [@neuefische](https://github.com/neuefische).
 
 ## About Fraud Detection
 
